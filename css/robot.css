@@ -76,6 +76,9 @@
   }
   50% {
     transform: scale(.5);
+    -webkit-transform: scale(.5);
+    -moz-transform: scale(.5);
+    -ms-transform: scale(.5);
   }
   100%{
     left: 700px;
@@ -87,6 +90,9 @@
   }
   50% {
     transform: scale(.5);
+    -webkit-transform: scale(.5);
+    -moz-transform: scale(.5);
+    -ms-transform: scale(.5);
   }
   100% {
     left: 700px;
@@ -98,6 +104,9 @@
   }
   50% {
     transform: scale(.5);
+    -webkit-transform: scale(.5);
+    -moz-transform: scale(.5);
+    -ms-transform: scale(.5);
   }
   100% {
     left: 700px;
